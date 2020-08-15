@@ -15,3 +15,4 @@
 <a href="https://linkedin.com/in/linkedin.com/in/felipe-ayauja-5434bab1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/felipe-ayauja-5434bab1" height="30" width="30" /></a>
 <a href="https://fb.com/https://www.facebook.com/carlosfelipe.ayaujaalvarez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/carlosfelipe.ayaujaalvarez" height="30" width="30" /></a>
 </p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FelipeSystem)](https://github.com/anuraghazra/github-readme-stats)
