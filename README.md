@@ -10,4 +10,4 @@ About Me:
 - 📫 How to reach me: linkedin,Facebook
 
 Social: 
-!github(https://cdn2.iconfinder.com/data/icons/weird-social-icon-pack/70/linkedin-256.png)
+![github](https://cdn2.iconfinder.com/data/icons/weird-social-icon-pack/70/linkedin-256.png)
