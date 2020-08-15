@@ -11,4 +11,3 @@ About Me:
 
 Social: 
 
-![github](https://cdn2.iconfinder.com/data/icons/weird-social-icon-pack/70/linkedin-256.png)
