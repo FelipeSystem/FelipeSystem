@@ -11,9 +11,5 @@
 
 - 📫 How to reach me **carlos.felipe.sist@gmail.com**
 
-## Github Stats
-[![FelipeSystem github stats](https://github-readme-stats.vercel.app/api?username=FelipeSystem)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
